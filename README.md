@@ -1,7 +1,6 @@
 # ⚡ Spec UI
 
 <div align="center">
-  <img src="https://forgeui.in/forgeui-ogimage-v2.png" alt="Spec UI Banner" width="800" />
   
   <p align="center">
     <strong>Beautiful, animated React components built with Tailwind CSS & Framer Motion</strong>
@@ -176,12 +175,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI foundation from [shadcn/ui](https://ui.shadcn.com/)
 
 ---
-
-<div align="center">
-  <p>Made with ❤️ for the React community</p>
-  <p>
-    <a href="https://forgeui.in">Visit our website</a> •
-    <a href="https://github.com/PreetKot/SPEC-UI/issues">Report Bug</a> •
-    <a href="https://github.com/PreetKot/SPEC-UI/issues">Request Feature</a>
-  </p>
-</div>
