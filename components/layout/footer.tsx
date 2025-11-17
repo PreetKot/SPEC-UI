@@ -61,7 +61,7 @@ const Footer = () => {
             </div>
             <div className="mt-4 flex flex-col justify-center space-y-4">
               <Link
-                href="https://github.com/specui/specui"
+                href="https://github.com/PreetKot/SPEC-UI.git"
                 target="_blank"
               >
                 <p className="text-foreground/60 hover:text-foreground/80">

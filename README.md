@@ -5,13 +5,6 @@
   <p align="center">
     <strong>Beautiful, animated React components built with Tailwind CSS & Framer Motion</strong>
   </p>
-  
-  <p align="center">
-    <a href="https://forgeui.in">🌐 Live Demo</a> •
-    <a href="#-getting-started">🚀 Get Started</a> •
-    <a href="#-components">📦 Components</a> •
-    <a href="#-contributing">🤝 Contributing</a>
-  </p>
 
   <p align="center">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/PreetKot/SPEC-UI?style=social">

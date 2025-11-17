@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 export function GithubLink() {
   return (
     <Link
-      href={"https://github.com/specui/specui"}
+      href={"https://github.com/PreetKot/SPEC-UI.git"}
       target="_blank"
       className={cn(
         "flex h-10 w-10 items-center justify-center rounded-xl bg-transparent text-black hover:bg-neutral-100 dark:text-white dark:hover:bg-neutral-900",

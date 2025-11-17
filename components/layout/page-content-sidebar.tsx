@@ -9,17 +9,17 @@ import Link from "next/link";
 const contributeItems = [
   {
     title: "Report an issue",
-    href: "https://github.com/specui/specui/issues/new?title=[bug]:%20%2Fcomponents%2F&labels=bug&labels=documentation&template=bug_report.md",
+    href: "https://github.com/PreetKot/SPEC-UI/issues/new?title=[bug]:%20%2Fcomponents%2F&labels=bug&labels=documentation&template=bug_report.md",
     icon: LuBug,
   },
   {
     title: "Request a feature",
-    href: "https://github.com/specui/specui/issues/new?title=[feat]:%20%2Fcomponents%2F&labels=enhancement&template=feature_request.md",
+    href: "https://github.com/PreetKot/SPEC-UI/issues/new?title=[feat]:%20%2Fcomponents%2F&labels=enhancement&template=feature_request.md",
     icon: LuLightbulb,
   },
   {
     title: "Request a new component",
-    href: "https://github.com/specui/specui/issues/new?title=[feat]:%20%2Fcomponents%2F&labels=enhancement&template=feature_request.md",
+    href: "https://github.com/PreetKot/SPEC-UI/issues/new?title=[feat]:%20%2Fcomponents%2F&labels=enhancement&template=feature_request.md",
     icon: LuLayoutDashboard,
   },
 ];

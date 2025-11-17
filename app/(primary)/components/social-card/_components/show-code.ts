@@ -96,7 +96,7 @@ export function ${title.replace(/\s+/g, "")}Example() {
           {
             label: "Github",
             icon: <FaGithub />,
-            link: "https://github.com/specui",
+            link: "https://github.com/PreetKot/SPEC-UI",
           },
         ]}
       />

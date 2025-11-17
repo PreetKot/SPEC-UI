@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { MyIcon } from "../icons/logo";
-import { FaGithub, FaXTwitter } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa6";
 
 const LandingNavbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -61,7 +61,7 @@ export default LandingNavbar;
 function GithubLink() {
   return (
     <Link
-      href={"https://github.com/specui/specui"}
+      href={"https://github.com/PreetKot/SPEC-UI"}
       target="_blank"
       className={cn(
         "flex h-10 w-10 items-center justify-center rounded-xl bg-transparent text-white hover:bg-neutral-900",
@@ -80,7 +80,6 @@ function TwitterLink() {
         "flex h-10 w-10 items-center justify-center rounded-xl bg-transparent text-white hover:bg-neutral-900",
       )}
     >
-      <FaXTwitter className="h-[18px] w-[18px]" />
     </Link>
   );
 }

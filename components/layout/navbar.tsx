@@ -4,7 +4,7 @@ import Link from "next/link";
 import { navItems } from "@/contants";
 import DocumentSearch from "./documentsearch";
 import AnchorNav from "./anchor-nav";
-import { GithubLink, TwitterLink } from "../ui/SocialButtons";
+import { GithubLink } from "../ui/SocialButtons";
 import NavbarDrawer from "./navbar-drawer";
 import { MyIcon } from "../icons/logo";
 
@@ -36,7 +36,6 @@ const Navbar = () => {
             <DocumentSearch />
             <div className="flex items-center gap-0.5">
               <GithubLink />
-              <TwitterLink />
               <Themetoggle />
             </div>
           </div>

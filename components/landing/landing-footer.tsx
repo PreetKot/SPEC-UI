@@ -24,7 +24,7 @@ const LandingFooter = () => {
               </Link>
               <div aria-hidden className="h-[21px] w-[1px] bg-neutral-700" />
               <Link
-                href="https://github.com/specui/specui"
+                href="https://github.com/PreetKot/SPEC-UI"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-fit px-1 text-[13px] text-white/70 duration-200 hover:text-white"
